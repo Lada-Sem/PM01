@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\Grapher.csproj": {}
+    "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\Grapher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\Grapher.csproj": {
+    "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\Grapher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\Grapher.csproj",
+        "projectUniqueName": "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\Grapher.csproj",
         "projectName": "Grapher",
-        "projectPath": "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\Grapher.csproj",
+        "projectPath": "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\Grapher.csproj",
         "packagesPath": "C:\\Users\\Лада\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\obj\\",
+        "outputPath": "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

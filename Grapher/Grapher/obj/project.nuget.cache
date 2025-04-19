@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "scscYC+93XtQuMB2tNoQ9slCAGbuQFF0TFSbhQlBzRTAYkq4UY21pEpyG0T4CLsLc5+kS8M4we2pewwK9hOR3Q==",
+  "dgSpecHash": "Tyuc5dUViliRhTmX529AWWXt/CThj1FhzeU5tibwsHDJftBRD7LhcQvOowa5aXutWflG9MbSdU5CfAyeTABCxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Лада\\Desktop\\Диплом\\Grapher\\Grapher\\Grapher.csproj",
+  "projectFilePath": "C:\\Users\\Лада\\Documents\\GitHub\\PM01\\Grapher\\Grapher\\Grapher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Лада\\.nuget\\packages\\fparsec\\1.0.3\\fparsec.1.0.3.nupkg.sha512",
     "C:\\Users\\Лада\\.nuget\\packages\\fsharp.core\\4.6.0\\fsharp.core.4.6.0.nupkg.sha512",

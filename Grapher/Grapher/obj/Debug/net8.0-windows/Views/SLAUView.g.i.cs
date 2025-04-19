@@ -53,7 +53,7 @@ namespace Grapher.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Grapher;component/views/slauview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Grapher;V1.0.0.0;component/views/slauview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\SLAUView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

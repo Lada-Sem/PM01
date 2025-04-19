@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Grapher
-build_property.ProjectDir = C:\Users\Лада\Desktop\Диплом\Grapher\Grapher\
+build_property.ProjectDir = C:\Users\Лада\Documents\GitHub\PM01\Grapher\Grapher\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
