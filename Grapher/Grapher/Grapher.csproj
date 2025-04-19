@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\analyzing.png" />
+    <None Remove="Assets\calculator.png" />
+    <None Remove="Assets\function.png" />
+    <None Remove="Assets\grapher.png" />
+    <None Remove="Assets\growth.png" />
+    <None Remove="Assets\help.png" />
+    <None Remove="Assets\matrix.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\analyzing.png" />
+    <Resource Include="Assets\calculator.png" />
+    <Resource Include="Assets\function.png" />
+    <Resource Include="Assets\grapher.png" />
+    <Resource Include="Assets\growth.png" />
+    <Resource Include="Assets\help.png" />
+    <Resource Include="Assets\matrix.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveChartsCore" Version="2.0.0-rc5.1" />
+    <PackageReference Include="LiveChartsCore.Behaviours" Version="2.0.0-rc5.1" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView" Version="2.0.0-rc5.1" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView.WPF" Version="2.0.0-rc5.1" />
+    <PackageReference Include="MathNet.Numerics" Version="6.0.0-beta1" />
+    <PackageReference Include="MathNet.Spatial" Version="0.6.0" />
+    <PackageReference Include="MathNet.Symbolics" Version="0.24.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

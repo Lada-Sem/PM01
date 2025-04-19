@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ModelContainer" CdmEntityContainer="Численные_методыEntities">
+    <EntitySetMapping Name="Графики">
+      <EntityTypeMapping TypeName="Model.Графики">
+        <MappingFragment StoreEntitySet="Графики">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="метод_id" ColumnName="метод_id" />
+          <ScalarProperty Name="изображение" ColumnName="изображение" />
+          <ScalarProperty Name="описание" ColumnName="описание" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Методы">
+      <EntityTypeMapping TypeName="Model.Методы">
+        <MappingFragment StoreEntitySet="Методы">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="название" ColumnName="название" />
+          <ScalarProperty Name="описание" ColumnName="описание" />
+          <ScalarProperty Name="формулы" ColumnName="формулы" />
+          <ScalarProperty Name="условия_применимости" ColumnName="условия_применимости" />
+          <ScalarProperty Name="ограничения" ColumnName="ограничения" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ответы_на_тесты">
+      <EntityTypeMapping TypeName="Model.Ответы_на_тесты">
+        <MappingFragment StoreEntitySet="Ответы_на_тесты">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="тест_id" ColumnName="тест_id" />
+          <ScalarProperty Name="вариант_ответа" ColumnName="вариант_ответа" />
+          <ScalarProperty Name="верный" ColumnName="верный" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Примеры">
+      <EntityTypeMapping TypeName="Model.Примеры">
+        <MappingFragment StoreEntitySet="Примеры">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="метод_id" ColumnName="метод_id" />
+          <ScalarProperty Name="описание" ColumnName="описание" />
+          <ScalarProperty Name="решение" ColumnName="решение" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Тесты">
+      <EntityTypeMapping TypeName="Model.Тесты">
+        <MappingFragment StoreEntitySet="Тесты">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="вопрос" ColumnName="вопрос" />
+          <ScalarProperty Name="метод_id" ColumnName="метод_id" />
+          <ScalarProperty Name="правильный_ответ" ColumnName="правильный_ответ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

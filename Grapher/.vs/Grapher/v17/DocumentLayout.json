@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\utils\\functionsqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\utils\\functionsqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\utils\\slausqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\utils\\slausqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\utils\\odusqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\utils\\odusqulptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\views\\oduviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\views\\oduviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\utils\\cubicspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\utils\\cubicspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\grapher\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\calculateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\calculateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\views\\calculateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\views\\calculateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\views\\slauviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\views\\slauviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\views\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\views\\infoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\infoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\infoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\graphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\graphview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\views\\graphviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\views\\graphviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\oduview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\oduview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\slauview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\slauview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\views\\slauview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\views\\slauview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapher\\grapher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9038AB11-37F2-4109-9A32-0187D0BDFAA9}|Grapher\\Grapher.csproj|solutionrelative:grapher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 312,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SLAUSqulptor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\SLAUSqulptor.cs",
+              "RelativeDocumentMoniker": "Grapher\\Utils\\SLAUSqulptor.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\SLAUSqulptor.cs",
+              "RelativeToolTip": "Grapher\\Utils\\SLAUSqulptor.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAgwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:03:21.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionSqulptor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\FunctionSqulptor.cs",
+              "RelativeDocumentMoniker": "Grapher\\Utils\\FunctionSqulptor.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\FunctionSqulptor.cs",
+              "RelativeToolTip": "Grapher\\Utils\\FunctionSqulptor.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:56:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ODUSqulptor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\ODUSqulptor.cs",
+              "RelativeDocumentMoniker": "Grapher\\Utils\\ODUSqulptor.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\ODUSqulptor.cs",
+              "RelativeToolTip": "Grapher\\Utils\\ODUSqulptor.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAawCwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:06:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Grapher\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\MainWindow.xaml",
+              "RelativeToolTip": "Grapher\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T13:36:43.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Grapher\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Properties\\Resources.resx",
+              "RelativeToolTip": "Grapher\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-16T09:50:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ODUViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\ODUViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\Views\\ODUViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\ODUViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\Views\\ODUViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:38:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CubicSpline.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\CubicSpline.cs",
+              "RelativeDocumentMoniker": "Grapher\\Utils\\CubicSpline.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Utils\\CubicSpline.cs",
+              "RelativeToolTip": "Grapher\\Utils\\CubicSpline.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAiwPAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:53:17.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\CalculateViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\Views\\CalculateViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\CalculateViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\Views\\CalculateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:22:56.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculateView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\CalculateView.xaml",
+              "RelativeDocumentMoniker": "Grapher\\Views\\CalculateView.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\CalculateView.xaml",
+              "RelativeToolTip": "Grapher\\Views\\CalculateView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T09:50:06.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SLAUViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\SLAUViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\Views\\SLAUViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\SLAUViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\Views\\SLAUViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:56:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GraphViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\GraphViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\Views\\GraphViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\GraphViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\Views\\GraphViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:23:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GraphView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\GraphView.xaml",
+              "RelativeDocumentMoniker": "Grapher\\Views\\GraphView.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\GraphView.xaml",
+              "RelativeToolTip": "Grapher\\Views\\GraphView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T13:37:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ODUView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\ODUView.xaml.cs",
+              "RelativeDocumentMoniker": "Grapher\\Views\\ODUView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\ODUView.xaml.cs",
+              "RelativeToolTip": "Grapher\\Views\\ODUView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:43:22.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfoView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\InfoView.xaml",
+              "RelativeDocumentMoniker": "Grapher\\Views\\InfoView.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\InfoView.xaml",
+              "RelativeToolTip": "Grapher\\Views\\InfoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T13:47:32.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\InfoViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\Views\\InfoViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\Views\\InfoViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\Views\\InfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:29:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SLAUView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\SLAUView.xaml",
+              "RelativeDocumentMoniker": "Grapher\\Views\\SLAUView.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\SLAUView.xaml",
+              "RelativeToolTip": "Grapher\\Views\\SLAUView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T09:50:20.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SLAUView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\SLAUView.xaml.cs",
+              "RelativeDocumentMoniker": "Grapher\\Views\\SLAUView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\Views\\SLAUView.xaml.cs",
+              "RelativeToolTip": "Grapher\\Views\\SLAUView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:00:45.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Grapher\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Grapher\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:36:43.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Grapher\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\Grapher\\Grapher\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Grapher\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:38:40.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Model" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Графики">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="метод_id" Type="int" />
+    <Property Name="изображение" Type="varbinary(max)" />
+    <Property Name="описание" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Методы">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="название" Type="nvarchar" MaxLength="255" />
+    <Property Name="описание" Type="nvarchar(max)" />
+    <Property Name="формулы" Type="nvarchar(max)" />
+    <Property Name="условия_применимости" Type="nvarchar(max)" />
+    <Property Name="ограничения" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Ответы_на_тесты">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="тест_id" Type="int" />
+    <Property Name="вариант_ответа" Type="nvarchar" MaxLength="255" />
+    <Property Name="верный" Type="bit" />
+  </EntityType>
+  <EntityType Name="Примеры">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="метод_id" Type="int" />
+    <Property Name="описание" Type="nvarchar(max)" />
+    <Property Name="решение" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Тесты">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="вопрос" Type="nvarchar(max)" />
+    <Property Name="метод_id" Type="int" />
+    <Property Name="правильный_ответ" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK__Графики__метод_i__1CF15040">
+    <End Role="Методы" Type="Self.Методы" Multiplicity="0..1" />
+    <End Role="Графики" Type="Self.Графики" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Методы">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Графики">
+        <PropertyRef Name="метод_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ответы_на__тест___1A14E395">
+    <End Role="Тесты" Type="Self.Тесты" Multiplicity="0..1" />
+    <End Role="Ответы_на_тесты" Type="Self.Ответы_на_тесты" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Тесты">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Ответы_на_тесты">
+        <PropertyRef Name="тест_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Примеры__метод_i__1273C1CD">
+    <End Role="Методы" Type="Self.Методы" Multiplicity="0..1" />
+    <End Role="Примеры" Type="Self.Примеры" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Методы">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Примеры">
+        <PropertyRef Name="метод_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Тесты__метод_id__173876EA">
+    <End Role="Методы" Type="Self.Методы" Multiplicity="0..1" />
+    <End Role="Тесты" Type="Self.Тесты" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Методы">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Тесты">
+        <PropertyRef Name="метод_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище ModelContainer">
+    <EntitySet Name="Графики" EntityType="Self.Графики" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Методы" EntityType="Self.Методы" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ответы_на_тесты" EntityType="Self.Ответы_на_тесты" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Примеры" EntityType="Self.Примеры" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Тесты" EntityType="Self.Тесты" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Графики__метод_i__1CF15040" Association="Self.FK__Графики__метод_i__1CF15040">
+      <End Role="Методы" EntitySet="Методы" />
+      <End Role="Графики" EntitySet="Графики" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ответы_на__тест___1A14E395" Association="Self.FK__Ответы_на__тест___1A14E395">
+      <End Role="Тесты" EntitySet="Тесты" />
+      <End Role="Ответы_на_тесты" EntitySet="Ответы_на_тесты" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Примеры__метод_i__1273C1CD" Association="Self.FK__Примеры__метод_i__1273C1CD">
+      <End Role="Методы" EntitySet="Методы" />
+      <End Role="Примеры" EntitySet="Примеры" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Тесты__метод_id__173876EA" Association="Self.FK__Тесты__метод_id__173876EA">
+      <End Role="Методы" EntitySet="Методы" />
+      <End Role="Тесты" EntitySet="Тесты" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

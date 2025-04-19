@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\grapherapi\\controllers\\\u0442\u0435\u0441\u0442\u044Bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|solutionrelative:grapherapi\\controllers\\\u0442\u0435\u0441\u0442\u044Bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\grapherapi\\grapherapi\\controllers\\\u0433\u0440\u0430\u0444\u0438\u043A\u0438controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|solutionrelative:grapherapi\\controllers\\\u0433\u0440\u0430\u0444\u0438\u043A\u0438controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\grapherapi\\controllers\\\u043E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044Bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|solutionrelative:grapherapi\\controllers\\\u043E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044Bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\grapherapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|solutionrelative:grapherapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\grapherapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B325BF-D3DF-4855-9750-5F00711BCA73}|GrapherAPI\\GrapherAPI.csproj|solutionrelative:grapherapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0413\u0440\u0430\u0444\u0438\u043A\u0438Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u0413\u0440\u0430\u0444\u0438\u043A\u0438Controller.cs",
+              "RelativeDocumentMoniker": "GrapherAPI\\Controllers\\\u0413\u0440\u0430\u0444\u0438\u043A\u0438Controller.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u0413\u0440\u0430\u0444\u0438\u043A\u0438Controller.cs",
+              "RelativeToolTip": "GrapherAPI\\Controllers\\\u0413\u0440\u0430\u0444\u0438\u043A\u0438Controller.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA+wGIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:04:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u041E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044BController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u041E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044BController.cs",
+              "RelativeDocumentMoniker": "GrapherAPI\\Controllers\\\u041E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044BController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u041E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044BController.cs",
+              "RelativeToolTip": "GrapherAPI\\Controllers\\\u041E\u0442\u0432\u0435\u0442\u044B_\u043D\u0430_\u0442\u0435\u0441\u0442\u044BController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:22:03.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0422\u0435\u0441\u0442\u044BController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u0422\u0435\u0441\u0442\u044BController.cs",
+              "RelativeDocumentMoniker": "GrapherAPI\\Controllers\\\u0422\u0435\u0441\u0442\u044BController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\\u0422\u0435\u0441\u0442\u044BController.cs",
+              "RelativeToolTip": "GrapherAPI\\Controllers\\\u0422\u0435\u0441\u0442\u044BController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:24:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GrapherAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GrapherAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T07:24:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GrapherAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\GrapherAPI\\GrapherAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GrapherAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:23:21.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
